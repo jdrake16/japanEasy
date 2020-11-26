@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
-            android:id="@+id/hello_button"
+            android:id="@+id/jap_hello"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="hello"
@@ -31,7 +31,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/thank_you_button"
+            android:id="@+id/jap_thank_you"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="thank you"
@@ -44,7 +44,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/excuse_me_button"
+            android:id="@+id/jap_excuse_me"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="excuse me"
@@ -57,7 +57,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/please_button"
+            android:id="@+id/jap_please"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="please"
@@ -70,7 +70,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/good_bye_button"
+            android:id="@+id/jap_good_bye"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="goodbye"
@@ -83,7 +83,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/cheers_button"
+            android:id="@+id/jap_cheers"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="cheers"
@@ -96,7 +96,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/yes_button"
+            android:id="@+id/jap_yes"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="yes"
@@ -109,7 +109,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/no_button"
+            android:id="@+id/jap_no"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="no"
